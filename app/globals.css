@@ -29,9 +29,14 @@ body {
 
 @media screen and (max-width: 480px) {
   body {
-    background-size: contain;
+    background-image: none;
   }
-}
 
-#bgImg {
+  #bgImg {
+    background-image: url("../app/assets/portrait-beautiful-black-woman-using-white-towel-her-face.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
 }

@@ -15,7 +15,7 @@ function Header() {
             <span>w</span>
         </h2>
         <h4 className='uppercase hidden lg:block'>Unlock Clear, Glowing Skin Naturally!</h4>
-        <Link href="#Contact" className='bg-white text-black px-4 py-1'>Get The Guide <span className='hidden sm:block'>Below</span>!</Link>
+        <Link href="#Contact" className='bg-white text-black text-sm lg:text-[16px] px-4 py-1 block'>Get The Guide!</Link>
     </header>
   )
 }
