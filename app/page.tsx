@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <main>
       <div className="h-[80vh]">
-        <div className="flex items-center justify-center h-full flex-col">
+        <div className="flex items-center justify-center h-full flex-col p-8">
           <h3>Discover Natural Acne Solutions.</h3>
           <p className="mt-2 mb-10">Learn Proven, Science-Backed Remedies to Treat Acne Without Harsh Chemicals!</p>
           <Link href="#Contact" className="bg-black text-white px-4 py-1">Signup To Get The Guide!</Link>
@@ -60,7 +60,7 @@ export default function Home() {
 
         <Link href="#Contact" className="bg-white text-black p-3 block w-[300px] underline mx-auto mt-10 text-center">Get Instant Access to Clear Skin Tips!</Link>
       </div>
-       <div className="klaviyo-form-UzQDTD" id="Contact"></div>
+       {/* <div className="klaviyo-form-UzQDTD" id="Contact"></div> */}
       <div className="p-5">
         <h2>Testimonials</h2>
         <p>Here's what people have to say about the guide!</p>

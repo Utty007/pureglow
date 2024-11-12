@@ -34,6 +34,7 @@ export default function RootLayout({
         <footer className="text-center bg-black text-white p-2 mt-10">
           <span className="text-center">Copyright &copy; PUREGLOW, 2024.</span>
         </footer>
+        <script async type='text/javascript' src='https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=TGXXNW'></script>
       </body>
     </html>
   );
