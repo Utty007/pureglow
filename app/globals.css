@@ -34,7 +34,7 @@ body {
 
   #bgImg {
     background-image: url("../app/assets/portrait-beautiful-black-woman-using-white-towel-her-face.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
