@@ -29,14 +29,10 @@ body {
 
 @media screen and (max-width: 480px) {
   body {
-    background-image: none;
+    background-image: url("../app/assets/photo-tired-black-girl-has-nap-poses-with-hands-together-keeps-eyes-closed-sees-positive-dreams-being-pleased-by-having-rest.jpg");
   }
 
-  #bgImg {
-    background-image: url("../app/assets/photo-tired-black-girl-has-nap-poses-with-hands-together-keeps-eyes-closed-sees-positive-dreams-being-pleased-by-having-rest.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
+  .bgImgText {
+    color: white;
   }
 }

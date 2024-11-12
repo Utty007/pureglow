@@ -34,8 +34,8 @@ export default function Home() {
 
   return (
     <main>
-      <div id="bgImg" className="h-[80vh]">
-        <div className="flex items-start justify-center h-full flex-col p-8">
+      <div className="h-[80vh]">
+        <div className="flex bgImgText items-start justify-center h-full flex-col p-8">
           <h3>Discover Natural Acne Solutions.</h3>
           <p className="mt-2 mb-10">Learn Proven, Science-Backed Remedies to Treat Acne Without Harsh Chemicals!</p>
           <Link href="#Contact" className="bg-black text-white px-4 py-1">Signup To Get The Guide!</Link>
