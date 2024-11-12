@@ -61,7 +61,7 @@ export default function Home() {
 
         <Link href="#Contact" className="bg-white text-black p-3 block w-[300px] underline mx-auto mt-10 text-center">Get Instant Access to Clear Skin Tips!</Link>
       </div>
-       <div className="klaviyo-form-VqE6W4"></div>
+       <div id="Contact" className="klaviyo-form-VqE6W4"></div>
       <div className="p-5">
         <h2>Testimonials</h2>
         <p>Here's what people have to say about the guide!</p>
