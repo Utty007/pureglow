@@ -39,4 +39,8 @@ body {
     background-position: center;
     background-attachment: fixed;
   }
+
+  .bgImgText {
+    color: white;
+  }
 }
