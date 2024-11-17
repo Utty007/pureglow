@@ -38,7 +38,7 @@ export default function Home() {
         <div className="flex bgImgText items-start justify-center h-full flex-col p-8">
           <h3>Discover Natural Acne Solutions.</h3>
           <p className="mt-2 mb-10">Learn Proven, Science-Backed Remedies to Treat Acne Without Harsh Chemicals!</p>
-          <Link href="#Contact" className="bg-black text-white px-4 py-1">Signup To Get The Guide!</Link>
+          <Link href="https://appslocked.com/fl/1jvlq" className="bg-black text-white px-4 py-1">Get The Guide!</Link>
         </div>
       </div>
       <div className="bg-black text-white p-5">
@@ -59,7 +59,7 @@ export default function Home() {
           </div>
         </div>
 
-        <Link href="#Contact" className="bg-white text-black p-3 block w-[300px] underline mx-auto mt-10 text-center">Get Instant Access to Clear Skin Tips!</Link>
+        <Link href="https://appslocked.com/fl/1jvlq" className="bg-white text-black p-3 block w-[300px] underline mx-auto mt-10 text-center">Get Instant Access to Clear Skin Tips!</Link>
       </div>
        <div id="Contact" className="klaviyo-form-VqE6W4"></div>
       <div className="p-5">
